@@ -1,0 +1,13 @@
+Backend:
+
+cd backend
+python -m venv venv
+venv\Scripts\activate
+pip install flask flask-cors tensorflow music21 numpy
+python train_model.py
+python app.py
+
+Frontend:
+
+cd frontend
+python -m http.server 5500
