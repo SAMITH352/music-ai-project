@@ -146,7 +146,5 @@ curl -X GET http://127.0.0.1:5000/generate -o generated_music.mid
 
 This project is for educational and personal use. Please respect copyright laws when using MIDI files for training.
 
-## Author
 
-Samith</content>
-<parameter name="filePath">c:\Users\samit\Downloads\Code_Alpha projects\music_ai_project\README.md
+
