@@ -140,13 +140,7 @@ curl -X GET http://127.0.0.1:5000/generate -o generated_music.mid
 - **Generation errors**: Verify the model.keras and notes.pkl files exist
 - **CORS issues**: Ensure Flask-CORS is installed and configured
 
-## Future Enhancements
 
-- Support for different instruments and genres
-- Variable composition length
-- Web-based MIDI player
-- User-uploaded training data
-- Multiple model architectures
 
 ## License
 
